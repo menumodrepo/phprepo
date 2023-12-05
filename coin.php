@@ -1,4 +1,4 @@
-<?php 
+
 public function start(){
 		echo "\033[33m";
 // Ký tự đặc biệt lớn
@@ -29,4 +29,3 @@ echo "\033[0m";
 	}
 
 
-?>
